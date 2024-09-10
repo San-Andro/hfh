@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: rgb(135, 170, 170);
+}
+
+#title{
+
+}
+
+#title2{
+    border: 2px solid red;
+    width: 500px;
+    height: 100vh;
+}
+
